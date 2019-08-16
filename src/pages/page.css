@@ -1,0 +1,48 @@
+body {
+  width: 95%;
+  margin: auto;
+  background: #fff;
+  font-family: "Lato";
+  line-height: 1.5;
+}
+img {
+  width: 20%;
+  margin: auto;
+  border-radius: 400px;
+}
+
+h4 {
+  width: 95%;
+  margin: auto;
+  font-family: sans-serif;
+}
+main {
+  margin-top: 20px;
+  border-radius: 10px;
+  background: #d3d1d154;
+  padding: 5px 40px;
+}
+
+.foto {
+  text-align: center;
+  border-radius: 10px;
+  margin: 0;
+}
+
+.my-name {
+  text-align: center;
+  margin: 0;
+}
+
+.my-bio {
+  text-align: center;
+  margin: 0;
+}
+.hero-links {
+  text-align: center;
+  justify-content: space-between;
+}
+
+.footer {
+  text-align: center;
+}
